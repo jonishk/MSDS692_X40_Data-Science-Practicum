@@ -64,7 +64,7 @@ Each folder contains `.jpg`, `.png`, and `.jpeg` formatted medical scan images c
 - **Output** → Binary classifier (Healthy / Tumor)
 
 > Detailed architecture is available in the notebook:  
-> `final_brain_tumor_classification.ipynb`
+> `Jonish_MSDS692_Practicum.ipynb`
 
 ---
 
