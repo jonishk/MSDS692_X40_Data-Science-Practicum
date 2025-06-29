@@ -74,3 +74,6 @@ Each folder contains `.jpg`, `.png`, and `.jpeg` formatted medical scan images c
    ```bash
    git clone https://github.com/yourusername/brain-tumor-multimodal-classification.git
    cd brain-tumor-multimodal-classification
+
+## 📄 License
+This project is for academic and educational purposes only.
